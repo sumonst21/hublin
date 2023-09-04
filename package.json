@@ -8,7 +8,7 @@
     "url": "https://github.com/linagora/hublin.git"
   },
   "dependencies": {
-    "async": "2.0.1",
+    "async": "2.6.4",
     "async-eventemitter": "0.2.2",
     "awesome-module": "1.1.0",
     "awesome-module-manager": "1.2.0",
